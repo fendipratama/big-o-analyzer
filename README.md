@@ -1,1 +1,1 @@
-# fendipratama-big-o-analyzer
+# big-o-analyzer
